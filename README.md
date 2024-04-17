@@ -1,6 +1,9 @@
 # SentimentAnalysis
 NLP - CS4120 @ Northeastern University | Final Project
 
-Data from https://www.kaggle.com/datasets/praveengovi/emotions-dataset-for-nlp?resource=download&select=train.txt
+Data from 
 
-Download the train, test, and val .txt files and put them in a folder titled 'data' to run the .ipynb properly.
+https://www.kaggle.com/datasets/praveengovi/emotions-dataset-for-nlp?resource=download&select=train.txt
+
+### To Run
+Download the train, test, and val .txt files from the kaggle site and place them in a folder titled 'data' in the same directory as the ipynb file.
