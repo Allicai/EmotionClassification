@@ -1,7 +1,7 @@
 # SentimentAnalysis
 NLP - CS4120 @ Northeastern University | Final Project
 
-Data from 
+Data from: 
 
 https://www.kaggle.com/datasets/praveengovi/emotions-dataset-for-nlp?resource=download&select=train.txt
 
