@@ -1,4 +1,5 @@
 # SentimentAnalysis
+## Vinit Patel
 NLP - CS4120 @ Northeastern University | Final Project
 
 Data from 
