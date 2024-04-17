@@ -7,3 +7,4 @@ https://www.kaggle.com/datasets/praveengovi/emotions-dataset-for-nlp?resource=do
 
 ## To Run
 Download the train, test, and val .txt files from the kaggle site and place them in a folder titled 'data' in the **same directory** as the ipynb file.
+Run the ```code.ipynb``` file
