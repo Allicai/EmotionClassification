@@ -1,4 +1,4 @@
-# SentimentAnalysis
+# Emotion Classification
 
 The data for this project comes from: 
 
