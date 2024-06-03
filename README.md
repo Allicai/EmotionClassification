@@ -1,5 +1,4 @@
 # SentimentAnalysis
-### NLP - CS4120 @ Northeastern University | Final Project
 
 The data for this project comes from: 
 
